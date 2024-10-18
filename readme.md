@@ -1,4 +1,10 @@
 # estudo de comandos nasm
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo29Bzf-mWQ9icwkZ_RpIePQtvkhFwhR-ppnvUcaKhyVz_BTKHm1gdLLo&s" width=200 height=200>
+
+</p>
+
+
 ## primeiros comandos
 
 
